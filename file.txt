@@ -1,0 +1,6 @@
+Step 1 . Install Python
+Step 2 . Code Editor - Like Pycharm , Sublime Text , VS COde etc..
+Step 3 . Install Xampp Server For MyQSL Data Base
+Step 4 . pip install tkinter and pip install pymysql , and press enter
+Step 5 . Go To Phpmyadmin and Import docterapp.db file
+Step 6 . Open Main.py File in Code Editor And Run This 
